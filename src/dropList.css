@@ -1,0 +1,25 @@
+.dropList {
+    font-size: 1.5vw;
+    width: 20vw;
+    border-radius: 10px;
+    background-color: rgba(247, 255, 203, 1);
+    appearance: none;
+    border: 5px solid khaki;
+    outline: none;
+}
+
+.dropList:hover {
+    background-color: khaki;
+    transition: all 0.2s linear;
+}
+
+.select::after {
+    content: "";
+    border-style: solid;
+    border-width: 0.4vw 0.4vw 0 0.4vw;
+    border-color: #000 transparent transparent transparent;
+    right: 28px;
+    top: 10px;
+    size: 1vw;
+    position: relative;
+}

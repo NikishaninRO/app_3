@@ -1,0 +1,11 @@
+.input {
+    font-family: inherit;
+    display: inline-block;
+    font-size: 1.5vw;
+    width: 19vw;
+    background-color: rgb(247, 255, 203);
+    outline-width: 5px;
+    outline-style: solid;
+    outline-color: khaki;
+    border: 0px solid #ccc;
+}
