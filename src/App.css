@@ -1,5 +1,4 @@
-.caption {
-  display: block;
+h1 {
   margin-top: 100px;
   margin-bottom: 1vw;
   text-align: center;
@@ -26,23 +25,20 @@
   margin-left: 0.5vw;
 }
 
-.list {
+.edit {
   display: inline-block;
 }
 
-.edit_from {
-  display: inline-block;
+.edit.from {
   margin-left: 27vw;
   margin-right: 2vw;
 }
 
-.edit_to {
-  display: inline-block;
+.edit.to {
   margin-left: 2.5vw;
 }
 
 .button {
-  display: inline-block;
   width: 100vw;
   text-align: center;
   margin-bottom: 1.8vw;

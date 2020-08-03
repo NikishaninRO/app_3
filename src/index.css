@@ -1,9 +1,9 @@
 body{
   margin: 0;
-  background-image: url(https://www.tokkoro.com/picsup/5426697-turquoise-green-wallpapers.jpg);
+  background-image: url('5426697-turquoise-green-wallpapers.jpg');
 }
 
-.content {
+#root {
   font-family: 'Roboto', sans-serif;
   color: rgb(255, 255, 255);
   background-color: rgb(129, 224, 165);
