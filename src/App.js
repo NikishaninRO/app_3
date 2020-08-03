@@ -4,7 +4,13 @@ import InputField from './inputField';
 import SwapButton from './swapButton';
 import './App.css';
 
-function App() {
+class App extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      
+    }
+  }
 // конструктор для создания компонента, объединяющего весь контент приложения
   return (
   <div>
